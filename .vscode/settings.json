@@ -1,0 +1,13 @@
+{
+  "nim.projectMapping": [
+    {
+      "projectFile": "tests/testiter.nim",
+      "fileRegex": "tests/.*\\.nim"
+    },
+    {
+      "projectFile": "asynciterators.nim",
+      "fileRegex": "asynciterators/.*\\.nim"
+    }
+  ],
+  "nim.formatOnSave": true,
+}
